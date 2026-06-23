@@ -16,3 +16,5 @@ I build **security-critical backend for regulated fintech**. Right now that's an
 **📫 Email:** calindotgabriel18@gmail.com
 
 <sub>Pinned below: <code>energy-reporter</code> (RWE-style data export), <code>immobile-search</code> (search/listing), <code>portfolio</code> (Astro).</sub>
+
+> 💬 Open to **crypto-custody / fintech B2B contracts** and senior backend roles — remote-EU, available now.
